@@ -1,0 +1,7 @@
+components:
+- layout_properties: {column: FMYDSS}
+  name: Button_Anmelden
+  properties: {text: Anmelden}
+  type: Button
+container: {type: DataRowPanel}
+is_package: true

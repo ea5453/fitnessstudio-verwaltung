@@ -3,7 +3,10 @@ unique_ids:
     standard-page.html: MPG335E76446IECE2CZYAGZHM2C2W2GJ
     theme.css: 2NCDVVRPXW4J2PTGDPQS2KOJA7SH3D72
   forms:
-    Form1: N5ODHAYLOPODYNUFFVYIYPX63YCLR3K2
+    Kurs_Daten: N5ODHAYLOPODYNUFFVYIYPX63YCLR3K2
+    Kurs_Daten.Form1: '1775638338902663289647887.68'
+    Kurs_Daten.RowTemplate1: '1775638040449582805338426.8977'
   modules: {}
   scripts: {}
-  server_modules: {}
+  server_modules:
+    ServerModule1: '1775638380944530154071896.8606'
