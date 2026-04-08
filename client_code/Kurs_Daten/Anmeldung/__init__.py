@@ -10,4 +10,5 @@ class Anmeldung(AnmeldungTemplate):
     # Set Form properties and Data Bindings.
     self.init_components(**properties)
 
+    anvil.server.call('get_kunde')
     # Any code you write here will run before the form opens.
