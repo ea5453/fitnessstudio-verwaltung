@@ -11,3 +11,8 @@ class RowTemplate1(RowTemplate1Template):
     self.init_components(**properties)
 
     # Any code you write here will run before the form opens.
+
+  @handle("Button_Anmelden", "click")
+  def Button_Anmelden_click(self, **event_args):
+    open_form('Kurs_Daten.Anmeldung')
+    pass

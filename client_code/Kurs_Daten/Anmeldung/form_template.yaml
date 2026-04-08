@@ -1,0 +1,20 @@
+components:
+- layout_properties: {slot: nav-right}
+  name: navbar_links
+  properties: {}
+  type: FlowPanel
+- components:
+  - name: repeating_panel_1
+    properties: {item_template: Kurs_Daten.Anmeldung.RowTemplate2}
+    type: RepeatingPanel
+  layout_properties: {slot: default}
+  name: data_grid_1
+  properties:
+    columns:
+    - {data_key: name, id: JKSDUP, title: Mitglied}
+    - {data_key: column_2, id: VJQQOR, title: Anmelden}
+  type: DataGrid
+container:
+  properties: {html: '@theme:standard-page.html'}
+  type: HtmlTemplate
+is_package: true

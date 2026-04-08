@@ -1,7 +1,7 @@
 components:
 - event_bindings: {}
-  layout_properties: {column: FMYDSS}
-  name: Button_Anmelden
+  layout_properties: {column: VJQQOR}
+  name: button_to_kurs_daten
   properties: {text: Anmelden}
   type: Button
 container: {type: DataRowPanel}

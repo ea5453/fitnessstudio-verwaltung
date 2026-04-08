@@ -4,9 +4,10 @@ unique_ids:
     theme.css: 2NCDVVRPXW4J2PTGDPQS2KOJA7SH3D72
   forms:
     Kurs_Daten: N5ODHAYLOPODYNUFFVYIYPX63YCLR3K2
-    Kurs_Daten.Form1: '1775638338902663289647887.68'
+    Kurs_Daten.Anmeldung: '1775638338902663289647887.68'
+    Kurs_Daten.Anmeldung.RowTemplate2: '1775640182784184234456807.92017'
     Kurs_Daten.RowTemplate1: '1775638040449582805338426.8977'
   modules: {}
   scripts: {}
   server_modules:
-    ServerModule1: '1775638380944530154071896.8606'
+    Backend: '1775638380944530154071896.8606'

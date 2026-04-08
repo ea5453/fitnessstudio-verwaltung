@@ -11,8 +11,8 @@ components:
       - {data_key: Bezeichnung, id: JKSDUP, title: Kurs}
       - {data_key: Wochentag, id: VJQQOR, title: Wochentag}
       - {data_key: Uhrzeit, id: OJLQEN, title: Uhrzeit}
-      - {data_key: column_1, id: QZRCNJ, title: Trainer}
-      - {data_key: column_1, id: XBOGUA, title: Teilnehmer}
+      - {data_key: Name, id: QZRCNJ, title: Trainer}
+      - {data_key: Max_Teilnehmer, id: XBOGUA, title: Teilnehmer}
       - {data_key: column_1, id: FMYDSS, title: Anmelden}
     type: DataGrid
   layout_properties: {slot: default}
